@@ -7,7 +7,7 @@ overrides:
       branch: feature/qt5
 
     - tools/graph_analysis:
-      branch: feature/qt5
+      branch: feature/qt5_lemon_osdep
 
     - tools/gecode:
       github: 2maz/gecode
