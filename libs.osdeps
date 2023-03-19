@@ -1,2 +1,4 @@
 external/lemon:
     debian,ubuntu: liblemon-dev
+qttools5:
+    debian,ubuntu: qttools5-dev

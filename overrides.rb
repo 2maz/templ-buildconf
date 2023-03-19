@@ -11,3 +11,5 @@
 #
 # See config.yml to set the prefix:/opt/autoproj/2.0 globally for all packages.
 
+Autobuild::Package['gui/vizkit3d'].depends_on 'qttools5'
+
