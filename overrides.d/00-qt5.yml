@@ -11,5 +11,6 @@ overrides:
 
     - tools/gecode:
       github: 2maz/gecode
-      tag: release-6.3.0
+      branch: release/6.3.0
+      tag:
 
