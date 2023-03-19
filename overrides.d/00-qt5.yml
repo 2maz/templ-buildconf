@@ -1,0 +1,15 @@
+overrides:
+    - base/types:
+      github: 2maz/base-types
+      branch: feature/qt5
+
+    - gui/vizkit3d:
+      branch: feature/qt5
+
+    - tools/graph_analysis:
+      branch: feature/qt5
+
+    - tools/gecode:
+      github: 2maz/gecode
+      tag: release-6.3.0
+
