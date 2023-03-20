@@ -6,7 +6,7 @@ package_sets:
      github: rock-core/package_set
      branch: feature/qt5
    - rock:
-     github: rock-core/rock-package_set
+     github: 2maz/rock-package_set
      branch: feature/qt5
    - rock-osdeps:
      github: rock-core/rock-osdeps-package_set
