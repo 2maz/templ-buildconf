@@ -14,3 +14,10 @@ overrides:
       branch: release/6.3.0
       tag:
 
+    - knowledge_reasoning/moreorg:
+      branch: review
+
+    - planning/templ:
+      branch: feature/solution_simulation
+      tag:
+
