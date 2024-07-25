@@ -6,11 +6,8 @@ package_sets:
      github: rock-core/package_set
      branch: feature/qt5
    - rock:
-     github: 2maz/rock-package_set
-     branch: feature/qt5
-   - rock-osdeps:
-     github: rock-core/rock-osdeps-package_set
-     branch: enable_jammy
+     github: rock-core/rock-package_set
+     branch: master
 
 layout:
    - tools/graph_analysis

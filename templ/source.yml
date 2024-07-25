@@ -1,7 +1,7 @@
 name: 2maz.templ
 
 import:
-    - github: rock/rock-package_set
+    - github: rock-core/rock-package_set
 
 version_control:
     - planning/.*:
