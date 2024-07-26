@@ -5,9 +5,6 @@ overrides:
     - gui/vizkit3d:
       branch: feature/qt5
 
-    - knowledge_reasoning/moreorg:
-      branch: review
-
     - planning/templ:
       branch: feature/solution_simulation
       tag:
